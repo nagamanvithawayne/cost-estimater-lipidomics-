@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cost-estimater-lipidomics-/static/css/main.4a928dca.css",
+    "main.js": "/cost-estimater-lipidomics-/static/js/main.dc2fbc2e.js",
+    "static/media/bootstrap-icons.woff?": "/cost-estimater-lipidomics-/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/cost-estimater-lipidomics-/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/cost-estimater-lipidomics-/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4a928dca.css",
+    "static/js/main.dc2fbc2e.js"
+  ]
+}
